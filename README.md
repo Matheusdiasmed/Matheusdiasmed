@@ -18,25 +18,20 @@ Sou estudante de Engenharia de Computação com foco em Back-End, aprimorando mi
 
 #  GitHub Stats:
 
-<div align=center>
-  <a href="https://github.com/SilasPires">
-  <img height="140cm" src="https://github-readme-stats.vercel.app/api?username=Matheusdiasmed&theme=dark&hide_border=false&include_all_commits=false&count_private=false"<br/>/>
-  <img height="140cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheusdiasmed&layout=compact&langs_count=16&theme=dark"/>
+<div style="text-align: center;" align="center">
+  <br>
+  <img height="140cm" src="https://github-readme-stats.vercel.app/api?username=Matheusdiasmed&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false">
+
+  <a href="https://github.com/mari4souza/github-readme-stats">
+    <img height="140cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheusdiasmed&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+  </a>
 </div>
+
+#
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Matheusdiasmed/Matheusdiasmed/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Matheusdiasmed/Matheusdiasmed/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Matheusdiasmed/Matheusdiasmed/output/github-contribution-grid-snake.svg">
 </picture>
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Matheusdiasmed&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Matheusdiasmed&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheusdiasmed&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=Matheusdiasmed&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
