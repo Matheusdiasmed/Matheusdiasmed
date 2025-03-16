@@ -1,7 +1,7 @@
+<img align="right" height="380" src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png">
+
 #  Matheus Dias 
 Sou estudante de Engenharia de Computação com foco em Back-End, aprimorando minhas habilidades em .NET, C#, Java, JavaScript e Python. Tenho experiência com SQL Server e MySQL. Sou apaixonado por resolver desafios técnicos, buscando soluções eficientes e escaláveis. Minhas habilidades de comunicação e adaptação facilitam o trabalho em equipe. Busco oportunidades para aplicar meus conhecimentos e ganhar experiência prática.
-
-
 
 # 
 
@@ -30,10 +30,10 @@ Sou estudante de Engenharia de Computação com foco em Back-End, aprimorando mi
 
 <div style="text-align: center;" align="center">
   <br>
-  <img height="140cm" src="https://github-readme-stats.vercel.app/api?username=Matheusdiasmed&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false">
+  <img height="160cm" src="https://github-readme-stats.vercel.app/api?username=Matheusdiasmed&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false">
 
   <a href="https://github.com/mari4souza/github-readme-stats">
-    <img height="140cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheusdiasmed&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+    <img height="160cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheusdiasmed&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
   </a>
 </div>
 
