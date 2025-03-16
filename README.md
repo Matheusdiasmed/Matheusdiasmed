@@ -1,12 +1,20 @@
 #  Matheus Dias 
 Sou estudante de Engenharia de Computação com foco em Back-End, aprimorando minhas habilidades em .NET, C#, Java, JavaScript e Python. Tenho experiência com SQL Server e MySQL. Sou apaixonado por resolver desafios técnicos, buscando soluções eficientes e escaláveis. Minhas habilidades de comunicação e adaptação facilitam o trabalho em equipe. Busco oportunidades para aplicar meus conhecimentos e ganhar experiência prática.
 
-# 🔗 Conecte-se comigo
+
+
+# 
+
+<h3>Conecte-se comigo</h3>
+
 <a href="https://instagram.com/mathd.m" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:matheus.dmedeiros30@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheus-diasm/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-# Habilidades:
+# 
+
+<h3>Habilidades</h3>
+
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="40" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="40" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="40" /></a>
@@ -16,7 +24,9 @@ Sou estudante de Engenharia de Computação com foco em Back-End, aprimorando mi
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="40" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="30" height="40" /></a></p>
 
-#  GitHub Stats:
+#  
+
+<h3>GitHub Stats</h3>
 
 <div style="text-align: center;" align="center">
   <br>
