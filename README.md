@@ -1,7 +1,17 @@
-<img align="right" height="380" src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png">
 
-#  Matheus Dias 
+# Matheus Dias
+
+
+
+
+<img align="right" height="140" src="https://github.com/user-attachments/assets/dc43ff36-1a47-4ca0-9f53-15fc2edef887">
+
+Matheus Dias 
 Sou estudante de Engenharia de Computação com foco em Back-End, aprimorando minhas habilidades em .NET, C#, Java, JavaScript e Python. Tenho experiência com SQL Server e MySQL. Sou apaixonado por resolver desafios técnicos, buscando soluções eficientes e escaláveis. Minhas habilidades de comunicação e adaptação facilitam o trabalho em equipe. Busco oportunidades para aplicar meus conhecimentos e ganhar experiência prática.
+
+
+
+
 
 # 
 
